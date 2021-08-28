@@ -1,0 +1,48 @@
+C:\Users\Rael\Desktop\Faculdade\IG - projetos\HOME\bin\Debug\netcoreapp3.1\HOME.exe
+C:\Users\Rael\Desktop\Faculdade\IG - projetos\HOME\bin\Debug\netcoreapp3.1\HOME.deps.json
+C:\Users\Rael\Desktop\Faculdade\IG - projetos\HOME\bin\Debug\netcoreapp3.1\HOME.runtimeconfig.json
+C:\Users\Rael\Desktop\Faculdade\IG - projetos\HOME\bin\Debug\netcoreapp3.1\HOME.runtimeconfig.dev.json
+C:\Users\Rael\Desktop\Faculdade\IG - projetos\HOME\bin\Debug\netcoreapp3.1\HOME.dll
+C:\Users\Rael\Desktop\Faculdade\IG - projetos\HOME\bin\Debug\netcoreapp3.1\HOME.pdb
+C:\Users\Rael\Desktop\Faculdade\IG - projetos\HOME\obj\Debug\netcoreapp3.1\HOME.csprojAssemblyReference.cache
+C:\Users\Rael\Desktop\Faculdade\IG - projetos\HOME\obj\Debug\netcoreapp3.1\HOME.Form1.resources
+C:\Users\Rael\Desktop\Faculdade\IG - projetos\HOME\obj\Debug\netcoreapp3.1\HOME.Properties.Resources.resources
+C:\Users\Rael\Desktop\Faculdade\IG - projetos\HOME\obj\Debug\netcoreapp3.1\HOME.csproj.GenerateResource.cache
+C:\Users\Rael\Desktop\Faculdade\IG - projetos\HOME\obj\Debug\netcoreapp3.1\HOME.AssemblyInfoInputs.cache
+C:\Users\Rael\Desktop\Faculdade\IG - projetos\HOME\obj\Debug\netcoreapp3.1\HOME.AssemblyInfo.cs
+C:\Users\Rael\Desktop\Faculdade\IG - projetos\HOME\obj\Debug\netcoreapp3.1\HOME.csproj.CoreCompileInputs.cache
+C:\Users\Rael\Desktop\Faculdade\IG - projetos\HOME\obj\Debug\netcoreapp3.1\HOME.dll
+C:\Users\Rael\Desktop\Faculdade\IG - projetos\HOME\obj\Debug\netcoreapp3.1\HOME.pdb
+C:\Users\Rael\Desktop\Faculdade\IG - projetos\HOME\obj\Debug\netcoreapp3.1\HOME.genruntimeconfig.cache
+C:\Users\Rael\Desktop\Faculdade\IG - projetos\PROJETO COMPLETO\HOME\bin\Debug\netcoreapp3.1\HOME.exe
+C:\Users\Rael\Desktop\Faculdade\IG - projetos\PROJETO COMPLETO\HOME\bin\Debug\netcoreapp3.1\HOME.deps.json
+C:\Users\Rael\Desktop\Faculdade\IG - projetos\PROJETO COMPLETO\HOME\bin\Debug\netcoreapp3.1\HOME.runtimeconfig.json
+C:\Users\Rael\Desktop\Faculdade\IG - projetos\PROJETO COMPLETO\HOME\bin\Debug\netcoreapp3.1\HOME.runtimeconfig.dev.json
+C:\Users\Rael\Desktop\Faculdade\IG - projetos\PROJETO COMPLETO\HOME\bin\Debug\netcoreapp3.1\HOME.dll
+C:\Users\Rael\Desktop\Faculdade\IG - projetos\PROJETO COMPLETO\HOME\bin\Debug\netcoreapp3.1\HOME.pdb
+C:\Users\Rael\Desktop\Faculdade\IG - projetos\PROJETO COMPLETO\HOME\obj\Debug\netcoreapp3.1\HOME.csprojAssemblyReference.cache
+C:\Users\Rael\Desktop\Faculdade\IG - projetos\PROJETO COMPLETO\HOME\obj\Debug\netcoreapp3.1\HOME.Form1.resources
+C:\Users\Rael\Desktop\Faculdade\IG - projetos\PROJETO COMPLETO\HOME\obj\Debug\netcoreapp3.1\HOME.Properties.Resources.resources
+C:\Users\Rael\Desktop\Faculdade\IG - projetos\PROJETO COMPLETO\HOME\obj\Debug\netcoreapp3.1\HOME.csproj.GenerateResource.cache
+C:\Users\Rael\Desktop\Faculdade\IG - projetos\PROJETO COMPLETO\HOME\obj\Debug\netcoreapp3.1\HOME.AssemblyInfoInputs.cache
+C:\Users\Rael\Desktop\Faculdade\IG - projetos\PROJETO COMPLETO\HOME\obj\Debug\netcoreapp3.1\HOME.AssemblyInfo.cs
+C:\Users\Rael\Desktop\Faculdade\IG - projetos\PROJETO COMPLETO\HOME\obj\Debug\netcoreapp3.1\HOME.csproj.CoreCompileInputs.cache
+C:\Users\Rael\Desktop\Faculdade\IG - projetos\PROJETO COMPLETO\HOME\obj\Debug\netcoreapp3.1\HOME.dll
+C:\Users\Rael\Desktop\Faculdade\IG - projetos\PROJETO COMPLETO\HOME\obj\Debug\netcoreapp3.1\HOME.pdb
+C:\Users\Rael\Desktop\Faculdade\IG - projetos\PROJETO COMPLETO\HOME\obj\Debug\netcoreapp3.1\HOME.genruntimeconfig.cache
+C:\Users\Rael\Desktop\Faculdade\IG - projetos\2.0\HOME\bin\Debug\netcoreapp3.1\HOME.exe
+C:\Users\Rael\Desktop\Faculdade\IG - projetos\2.0\HOME\bin\Debug\netcoreapp3.1\HOME.deps.json
+C:\Users\Rael\Desktop\Faculdade\IG - projetos\2.0\HOME\bin\Debug\netcoreapp3.1\HOME.runtimeconfig.json
+C:\Users\Rael\Desktop\Faculdade\IG - projetos\2.0\HOME\bin\Debug\netcoreapp3.1\HOME.runtimeconfig.dev.json
+C:\Users\Rael\Desktop\Faculdade\IG - projetos\2.0\HOME\bin\Debug\netcoreapp3.1\HOME.dll
+C:\Users\Rael\Desktop\Faculdade\IG - projetos\2.0\HOME\bin\Debug\netcoreapp3.1\HOME.pdb
+C:\Users\Rael\Desktop\Faculdade\IG - projetos\2.0\HOME\obj\Debug\netcoreapp3.1\HOME.csprojAssemblyReference.cache
+C:\Users\Rael\Desktop\Faculdade\IG - projetos\2.0\HOME\obj\Debug\netcoreapp3.1\HOME.Form1.resources
+C:\Users\Rael\Desktop\Faculdade\IG - projetos\2.0\HOME\obj\Debug\netcoreapp3.1\HOME.Properties.Resources.resources
+C:\Users\Rael\Desktop\Faculdade\IG - projetos\2.0\HOME\obj\Debug\netcoreapp3.1\HOME.csproj.GenerateResource.cache
+C:\Users\Rael\Desktop\Faculdade\IG - projetos\2.0\HOME\obj\Debug\netcoreapp3.1\HOME.AssemblyInfoInputs.cache
+C:\Users\Rael\Desktop\Faculdade\IG - projetos\2.0\HOME\obj\Debug\netcoreapp3.1\HOME.AssemblyInfo.cs
+C:\Users\Rael\Desktop\Faculdade\IG - projetos\2.0\HOME\obj\Debug\netcoreapp3.1\HOME.csproj.CoreCompileInputs.cache
+C:\Users\Rael\Desktop\Faculdade\IG - projetos\2.0\HOME\obj\Debug\netcoreapp3.1\HOME.dll
+C:\Users\Rael\Desktop\Faculdade\IG - projetos\2.0\HOME\obj\Debug\netcoreapp3.1\HOME.pdb
+C:\Users\Rael\Desktop\Faculdade\IG - projetos\2.0\HOME\obj\Debug\netcoreapp3.1\HOME.genruntimeconfig.cache

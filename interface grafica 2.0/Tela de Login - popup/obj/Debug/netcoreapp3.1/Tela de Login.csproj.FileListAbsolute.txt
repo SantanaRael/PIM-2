@@ -1,0 +1,48 @@
+C:\Users\Rael\source\repos\Tela de Login\bin\Debug\netcoreapp3.1\Tela de Login.exe
+C:\Users\Rael\source\repos\Tela de Login\bin\Debug\netcoreapp3.1\Tela de Login.deps.json
+C:\Users\Rael\source\repos\Tela de Login\bin\Debug\netcoreapp3.1\Tela de Login.runtimeconfig.json
+C:\Users\Rael\source\repos\Tela de Login\bin\Debug\netcoreapp3.1\Tela de Login.runtimeconfig.dev.json
+C:\Users\Rael\source\repos\Tela de Login\bin\Debug\netcoreapp3.1\Tela de Login.dll
+C:\Users\Rael\source\repos\Tela de Login\bin\Debug\netcoreapp3.1\Tela de Login.pdb
+C:\Users\Rael\source\repos\Tela de Login\obj\Debug\netcoreapp3.1\Tela de Login.csprojAssemblyReference.cache
+C:\Users\Rael\source\repos\Tela de Login\obj\Debug\netcoreapp3.1\Tela_de_Login.Form1.resources
+C:\Users\Rael\source\repos\Tela de Login\obj\Debug\netcoreapp3.1\Tela_de_Login.Properties.Resources.resources
+C:\Users\Rael\source\repos\Tela de Login\obj\Debug\netcoreapp3.1\Tela de Login.csproj.GenerateResource.cache
+C:\Users\Rael\source\repos\Tela de Login\obj\Debug\netcoreapp3.1\Tela de Login.AssemblyInfoInputs.cache
+C:\Users\Rael\source\repos\Tela de Login\obj\Debug\netcoreapp3.1\Tela de Login.AssemblyInfo.cs
+C:\Users\Rael\source\repos\Tela de Login\obj\Debug\netcoreapp3.1\Tela de Login.csproj.CoreCompileInputs.cache
+C:\Users\Rael\source\repos\Tela de Login\obj\Debug\netcoreapp3.1\Tela de Login.dll
+C:\Users\Rael\source\repos\Tela de Login\obj\Debug\netcoreapp3.1\Tela de Login.pdb
+C:\Users\Rael\source\repos\Tela de Login\obj\Debug\netcoreapp3.1\Tela de Login.genruntimeconfig.cache
+C:\Users\Rael\Desktop\Faculdade\IG - projetos\2.0\Tela de Login\bin\Debug\netcoreapp3.1\Tela de Login.exe
+C:\Users\Rael\Desktop\Faculdade\IG - projetos\2.0\Tela de Login\bin\Debug\netcoreapp3.1\Tela de Login.deps.json
+C:\Users\Rael\Desktop\Faculdade\IG - projetos\2.0\Tela de Login\bin\Debug\netcoreapp3.1\Tela de Login.runtimeconfig.json
+C:\Users\Rael\Desktop\Faculdade\IG - projetos\2.0\Tela de Login\bin\Debug\netcoreapp3.1\Tela de Login.runtimeconfig.dev.json
+C:\Users\Rael\Desktop\Faculdade\IG - projetos\2.0\Tela de Login\bin\Debug\netcoreapp3.1\Tela de Login.dll
+C:\Users\Rael\Desktop\Faculdade\IG - projetos\2.0\Tela de Login\bin\Debug\netcoreapp3.1\Tela de Login.pdb
+C:\Users\Rael\Desktop\Faculdade\IG - projetos\2.0\Tela de Login\obj\Debug\netcoreapp3.1\Tela de Login.csprojAssemblyReference.cache
+C:\Users\Rael\Desktop\Faculdade\IG - projetos\2.0\Tela de Login\obj\Debug\netcoreapp3.1\Tela_de_Login.Form1.resources
+C:\Users\Rael\Desktop\Faculdade\IG - projetos\2.0\Tela de Login\obj\Debug\netcoreapp3.1\Tela_de_Login.Properties.Resources.resources
+C:\Users\Rael\Desktop\Faculdade\IG - projetos\2.0\Tela de Login\obj\Debug\netcoreapp3.1\Tela de Login.csproj.GenerateResource.cache
+C:\Users\Rael\Desktop\Faculdade\IG - projetos\2.0\Tela de Login\obj\Debug\netcoreapp3.1\Tela de Login.AssemblyInfoInputs.cache
+C:\Users\Rael\Desktop\Faculdade\IG - projetos\2.0\Tela de Login\obj\Debug\netcoreapp3.1\Tela de Login.AssemblyInfo.cs
+C:\Users\Rael\Desktop\Faculdade\IG - projetos\2.0\Tela de Login\obj\Debug\netcoreapp3.1\Tela de Login.csproj.CoreCompileInputs.cache
+C:\Users\Rael\Desktop\Faculdade\IG - projetos\2.0\Tela de Login\obj\Debug\netcoreapp3.1\Tela de Login.dll
+C:\Users\Rael\Desktop\Faculdade\IG - projetos\2.0\Tela de Login\obj\Debug\netcoreapp3.1\Tela de Login.pdb
+C:\Users\Rael\Desktop\Faculdade\IG - projetos\2.0\Tela de Login\obj\Debug\netcoreapp3.1\Tela de Login.genruntimeconfig.cache
+C:\Users\Rael\Desktop\Faculdade\IG - projetos\2.0\Tela de Login - Copia\bin\Debug\netcoreapp3.1\Tela de Login.exe
+C:\Users\Rael\Desktop\Faculdade\IG - projetos\2.0\Tela de Login - Copia\bin\Debug\netcoreapp3.1\Tela de Login.deps.json
+C:\Users\Rael\Desktop\Faculdade\IG - projetos\2.0\Tela de Login - Copia\bin\Debug\netcoreapp3.1\Tela de Login.runtimeconfig.json
+C:\Users\Rael\Desktop\Faculdade\IG - projetos\2.0\Tela de Login - Copia\bin\Debug\netcoreapp3.1\Tela de Login.runtimeconfig.dev.json
+C:\Users\Rael\Desktop\Faculdade\IG - projetos\2.0\Tela de Login - Copia\bin\Debug\netcoreapp3.1\Tela de Login.dll
+C:\Users\Rael\Desktop\Faculdade\IG - projetos\2.0\Tela de Login - Copia\bin\Debug\netcoreapp3.1\Tela de Login.pdb
+C:\Users\Rael\Desktop\Faculdade\IG - projetos\2.0\Tela de Login - Copia\obj\Debug\netcoreapp3.1\Tela de Login.csprojAssemblyReference.cache
+C:\Users\Rael\Desktop\Faculdade\IG - projetos\2.0\Tela de Login - Copia\obj\Debug\netcoreapp3.1\Tela_de_Login.Form1.resources
+C:\Users\Rael\Desktop\Faculdade\IG - projetos\2.0\Tela de Login - Copia\obj\Debug\netcoreapp3.1\Tela_de_Login.Properties.Resources.resources
+C:\Users\Rael\Desktop\Faculdade\IG - projetos\2.0\Tela de Login - Copia\obj\Debug\netcoreapp3.1\Tela de Login.csproj.GenerateResource.cache
+C:\Users\Rael\Desktop\Faculdade\IG - projetos\2.0\Tela de Login - Copia\obj\Debug\netcoreapp3.1\Tela de Login.AssemblyInfoInputs.cache
+C:\Users\Rael\Desktop\Faculdade\IG - projetos\2.0\Tela de Login - Copia\obj\Debug\netcoreapp3.1\Tela de Login.AssemblyInfo.cs
+C:\Users\Rael\Desktop\Faculdade\IG - projetos\2.0\Tela de Login - Copia\obj\Debug\netcoreapp3.1\Tela de Login.csproj.CoreCompileInputs.cache
+C:\Users\Rael\Desktop\Faculdade\IG - projetos\2.0\Tela de Login - Copia\obj\Debug\netcoreapp3.1\Tela de Login.dll
+C:\Users\Rael\Desktop\Faculdade\IG - projetos\2.0\Tela de Login - Copia\obj\Debug\netcoreapp3.1\Tela de Login.pdb
+C:\Users\Rael\Desktop\Faculdade\IG - projetos\2.0\Tela de Login - Copia\obj\Debug\netcoreapp3.1\Tela de Login.genruntimeconfig.cache
